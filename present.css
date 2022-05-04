@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;1,300&display=swap');
+body{
+	overflow-x: hidden;
+}
+.container{
+	width:1800px;
+	background-color:white;
+}
+.catalog{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:25px;
+	padding-left:100px;
+}
+.about{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:25px;
+	padding-left:300px;
+}
+.call{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:25px;
+	padding-left:500px;
+}
+.Zeygerman{
+	width:200px;
+	height: 200px;
+	position: relative;
+	left:50%;
+	top:50px;
+}
+.minicatalog{
+	position: relative;
+	top:100px;
+}
+.knit1{
+	width: 500px;
+    height: 600px;
+    position: relative;
+    left:900px;
+    top:50px;
+}
+.knitxt1{
+	position: relative;
+	left:1070px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:35px;
+	top:40px;
+}
+.knitxt2{
+	position: relative;
+	left:470px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:35px;
+	top:40px;
+}
+.knit2{
+	width: 500px;
+    height: 600px;
+    position: relative;
+    left:300px;
+    top:50px;
+}
+.knit3{
+	width: 500px;
+    height: 600px;
+    position: relative;
+    left:900px;
+    top:50px;
+}
+.knitxt3{
+	position: relative;
+	left:1070px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:35px;
+	top:40px;
+}
+.knitxt4{
+	position: relative;
+	left:470px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size:35px;
+	top:40px;
+}
+.knit4{
+	width: 500px;
+    height: 600px;
+    position: relative;
+    left:300px;
+    top:50px;
+}
+.content{
+	position: relative;
+	top:400px;
+	text-align: center;
+}
+.aboutp{
+	font-size:45px;	
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	bottom:230px;
+	left:23%;
+}
+.aboutpp{
+	display: inline-block;
+	width: 40%;
+	font-size: 25px;
+    position: relative;
+    bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.examples{
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	position: relative;
+	top:500px;
+}
+.exampic1{
+	width: 300px;
+    height: 400px; 
+    position: relative;
+    left:15%;
+    margin:30px;
+    border:3px solid black;
+    border-radius: 10%;
+}
+.exampic2{
+	width: 300px;
+    height: 400px; 
+    position: relative;
+    left:15%;
+    margin:30px;
+    border:3px solid black;
+    border-radius: 10%;
+}
+.exampic3{
+	width: 300px;
+    height: 400px; 
+    position: relative;
+    left:15%;
+    margin:30px;
+    border:3px solid black;
+    border-radius: 10%;
+}
+.exampic4{
+	width: 300px;
+    height: 400px; 
+    position: relative;
+    left:15%;
+    margin:30px;
+    border:3px solid black;
+    border-radius: 10%;
+}
+.example{
+	font-size:40px;
+	text-align: center;
+	position: relative;
+	left:12%;
+}
+hr{
+	width: 110%;
+	height: 2px;
+	background-color: black;
+	margin:10px auto;
+	border:none;
+	position: relative;
+	top:600px;
+}
+
+.end{
+	position: relative;
+	top:700px;
+	text-decoration: none;
+	height: 50px;
+}
+.Vk{
+	color:black;
+	font-size:30px;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	bottom:65px;
+	left:4%;
+}
+.inst{
+	color:black;
+	font-size:30px;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	right:15%;
+}
+.mail{
+	color:black;
+	font-size:30px;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	left:22.5%;
+	bottom:10px;
+}
+.number{
+	color:black;
+	font-size:30px;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	left: 4%;
+    bottom: 70px;
+    z-index: 20;
+}
+.yarnp{
+	width:500px;
+	height:500px;
+	display: inline-block;
+	padding: 30px;
+}
+.yarn{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+.num{
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	font-size: 30px;
+}
+.caphoto2{
+	width:400px;
+	height:600px;
+	margin-left:100px;
+	display: inline-block;
+	padding: 30px;
+}
+.cap{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+.tshirt{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+.thirtphoto2{
+	width:400px;
+	height:600px;
+	margin-left:100px;
+	display: inline-block;
+	padding: 30px;
+}
+.acces{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+.accesphoto2{
+	width:500px;
+	height:600px;
+	margin-left:200px;
+	display: inline-block;
+	padding: 30px;
+}
+@media (max-width: 786px){
+	.container{
+		width:786px;
+	}
+	.catalog{
+		font-size:20px;
+		position: relative;
+        right:50px;
+	}
+	.about{
+        font-size:20px;
+        position: relative;
+        right: 280px;
+	}
+	.call{
+        font-size:20px;
+        position: relative;
+        right: 150px;
+        bottom: 25px;
+	}
+	.Zeygerman{
+		width: 200px;
+        height: 200px;
+		position: relative;
+	    right:70px;
+	}
+	.photo{
+		position: relative;
+	    left:-240px;
+	}
+	.txt{
+		position: relative;
+		right:850px;
+	}
+	.pic1{
+		position: relative;
+		right: 920px;
+	}
+	.txt2{
+		position: relative;
+		right: 270px;
+		top:100px;
+	}
+	.pic2{
+		position: relative;
+		right: 310px;
+		top:100px;
+	}
+	.txt3{
+		position: relative;
+		right:850px;
+	}
+	.pic3{
+		position: relative;
+		right: 910px;
+	}
+	.txt4{
+		position: relative;
+		right: 270px;
+		top:100px;
+	}
+	.pic4{
+		position: relative;
+		right: 310px;
+		top:100px;
+	}
+	.content{
+		position: relative;
+	}
+	.aboutp{
+		position: relative;
+		bottom: 300px;
+		text-align: center;
+		margin-right: 200px;
+        right: 40px;
+	}
+	.aboutpp{
+		width: 400px;
+        position: relative;
+        right: 290px;
+	}
+	.examples{
+		display:none;
+	}
+	hr{
+		width:480px;
+		position: relative;
+		right: 650px;
+	}
+	.end{
+		display: none;
+	}
+}
